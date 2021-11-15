@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714404488536",
+    "project_id": "movieapp-5bf7c",
+    "storage_bucket": "movieapp-5bf7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714404488536:android:9fad57dff4ac6ff32b712d",
+        "android_client_info": {
+          "package_name": "com.solly.movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714404488536-6ujrt4hn35r8n6me610bu9s3lad8jlui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJT5NGqlvP7pl94ZwplSbGNTPlfeLZWI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714404488536-6ujrt4hn35r8n6me610bu9s3lad8jlui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
